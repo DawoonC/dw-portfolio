@@ -1,4 +1,6 @@
-*.ico
-*.min.js
-*.min.css
-*.pyc
+favicon.ico
+bootstrap.min.js
+bootstrap.min.css
+bootstrap-theme.min.css
+bootstrap-theme.css
+main.pyc
