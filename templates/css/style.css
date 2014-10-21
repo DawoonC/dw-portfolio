@@ -46,6 +46,13 @@ h3.footer {
   color: #353535;
   line-height: 170%;
 }
+.project-separator {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.project-sep-hr {
+  border-top-width: 1px;
+}
 
 @media (max-width: 991px) {
   .logo-block {
@@ -68,5 +75,8 @@ h3.footer {
   .foot-title {
     margin-top: 60px;
     margin-bottom: 10px;
+  }
+  .project-separator {
+    display: none;
   }
 }
